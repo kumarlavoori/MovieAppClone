@@ -1,0 +1,3 @@
+# Project Title:MovieAppClone
+# Description:
+The MovieAppClone Project is a static website that replicates the interface of a popular movie streaming platform. This project focuses on front-end development, using HTML, CSS, and JavaScript to create a visually appealing and responsive user interface. The website typically includes features like a homepage displaying movie posters, a search bar, and individual movie detail pages. Since it's a static website, it doesn't include dynamic functionalities like user authentication or movie streaming but serves as a portfolio piece to showcase UI/UX design skills and front-end coding abilities.
